@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://toddnobles.github.io/al-folio/sitemap.xml
+Sitemap: https://toddnobles.github.io/sitemap.xml
