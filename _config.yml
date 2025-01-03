@@ -2,5 +2,6 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 
-title: [Todd Nobles]
-description: [Personal Site]
+title: Todd Nobles
+description: Personal Site
+theme: jekyll-theme-minimal
