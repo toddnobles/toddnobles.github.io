@@ -1,7 +1,3 @@
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
-
-title: Todd Nobles
-description: Personal Site
-theme: jekyll-theme-minimal
+remote_theme: "pages-themes/minimal@v0.2.0"
+title: My GitHub Pages Site
+description: A simple site using the Minimal theme
