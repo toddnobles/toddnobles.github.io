@@ -26,5 +26,12 @@
     "title": "Todd Nobles",
     "section": "Presentations",
     "text": "Presentations"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Todd Nobles",
+    "section": "",
+    "text": "Bio\n\nI’m a PhD student at University of Washington.\n\n\n\nCV\n\nDownload my CV here\n\n\n\nResearch\n\n\nWorking Papers\n\nIncreasingly Radical: Examining Predictors of Support for Reactionary Right-Wing Candidates for the United States House of Representatives\nWhere You Start Matters: Labor Market Inequality and the Entrepreneurship Earnings Penalty Puzzle (with Daniel Auguste)\nEnemy Aliens: German Interment during the First World War (with Peter Catron and Kate Stovel)\nLi Verdugo, Juliann, Todd Nobles, Jerald R. Herting, Jane J. Lee, David T. Takeuchi. “Immigrant status, parental education, and financial insecurity on anxiety and depression among young Asian adults in the United States”\n\n\n\n\nSoftware and Visualization\n\n\ndata_checkr: Work in progress R package and Shiny app converting hand edits to data into reproducible R commands\nDashboards\n\nExploring Bar Exam Performance\nLaw Student Transfer Pathways"
   }
 ]

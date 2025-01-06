@@ -59,12 +59,50 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+</head><body class="nav-fixed">/* css styles */
+.collapsible {
+  cursor: pointer;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.collapsible + .content {
+  display: none;
+  margin-left: 15px;
+}
+
+.collapsible.active + .content {
+  display: block;
+}
+document.addEventListener("DOMContentLoaded", function() {
+  const headers = document.querySelectorAll("h1, h2, h3"); // Adjust for desired header levels
+  headers.forEach(header =&gt; {
+    const content = document.createElement("div");
+    content.className = "content";
+
+    // Move all siblings into the content div
+    let sibling = header.nextElementSibling;
+    while (sibling &amp;&amp; !["H1", "H2", "H3"].includes(sibling.tagName)) {
+      const nextSibling = sibling.nextElementSibling;
+      content.appendChild(sibling);
+      sibling = nextSibling;
+    }
+
+    header.classList.add("collapsible");
+    header.parentNode.insertBefore(content, header.nextSibling);
+
+    // Add click event to toggle content
+    header.addEventListener("click", () =&gt; {
+      header.classList.toggle("active");
+    });
+  });
+});
 
 
 <link rel="stylesheet" href="styles.css">
-</head>
 
-<body class="nav-fixed">
+
+
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
