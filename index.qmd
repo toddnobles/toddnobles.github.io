@@ -1,7 +1,88 @@
 ---
-title: "Todd Nobles"
+about:
+  template: solana
+  image: todd_nobles_1_5.jpg
 ---
 
-This is a Quarto website.
+```{=html}
+<style>
+  summary {
+    font-size: 1.75em; /* Make headers larger */
+    font-weight: bold; /* Make headers bold */
+    color: #008CBA !important; /* Ensure primary color is applied */
+  }
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+  summary:hover {
+    text-decoration: underline; /* Optional hover effect */
+  }
+</style>
+```
+
+<details open>
+
+<summary>About</summary>
+
+I'm a PhD student at University of Washington.
+
+</details>
+
+<details>
+
+<summary>CV</summary>
+
+[Download my CV here](Todd_Nobles_CV20241203.pdf)
+
+</details>
+
+<details>
+
+<summary>Research</summary>
+
+### Working Papers
+
+-   Increasingly Radical: Examining Predictors of Support for Reactionary Right-Wing Candidates for the United States House of Representatives
+
+-   Where You Start Matters: Labor Market Inequality and the Entrepreneurship Earnings Penalty Puzzle (with Daniel Auguste)
+
+-   Enemy Aliens: German Interment during the First World War (with Peter Catron and Kate Stovel)
+
+-   Li Verdugo, Juliann, **Todd Nobles**, Jerald R. Herting, Jane J. Lee, David T. Takeuchi. "Immigrant status, parental education, and financial insecurity on anxiety and depression among young Asian adults in the United States"
+
+</details>
+
+<details>
+
+<summary>Teaching</summary>
+
+-   **Instructor of Record**
+
+    -   SOC 300: Foundations of Social Inquiry (*Undergraduate Course*) - planned Summer 2025
+
+<!-- -->
+
+-   **Teaching Assistant**
+
+    -   SOC 506: Methodology: Quantitative Techniques in Sociology (*Graduate Course*) - Spring 2024
+
+    -   SOC 505: Applied Social Statistics (*Graduate Course*) - Winter 2024 & Winter 2025
+
+    -   SOC 504: Introduction to Applied Social Statistics (*Graduate Course*) - Autumn 2023 & Autumn 2024
+
+    -   SOC 301: Labor Market Inequality (*Undergraduate Course*) - Spring 2023
+
+    -   SOC 292: Who Gets Ahead? Public Schooling in America (*Undergraduate Course*) - Winter 2023
+
+    -   SOC 225: Data and Society (*Undergraduate Course*) - Autumn 2022
+
+</details>
+
+<details>
+
+<summary>Software and Visualizations</summary>
+
+-   [data_checkr](data_checkr.qmd): Work in progress R package and Shiny app converting hand edits to OCR results into reproducible R commands. This takes a bit to load given that it uses webR to run the app in the browser.
+-   **Dashboards**
+    -   [Exploring Bar Exam Performance](https://accesslex.shinyapps.io/exploring_bar_performance/)
+    -   [Law Student Transfer Pathways](https://accesslex.shinyapps.io/law_student_transfer_pathways/)
+
+</details>
