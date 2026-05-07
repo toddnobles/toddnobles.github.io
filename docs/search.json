@@ -1,37 +1,37 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
     "section": "",
-    "text": "About this site"
+    "text": "Download my CV here"
   },
   {
-    "objectID": "index.html#working-papers",
-    "href": "index.html#working-papers",
-    "title": "Todd Nobles",
-    "section": "Working Papers",
-    "text": "Working Papers"
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Peer Reviewed Publications\nLi Verdugo, J., Nobles, T, Herting, J. R., Lee, J. J., & Takeuchi, D. T. (2025). Socioeconomic factors and mental health among young Asian adults in the United States. Ethnicity & Health, 1–21. https://doi.org/10.1080/13557858.2025.2600274\n\n\nSubmitted\nAuguste, D., Kim, P., Nobles, T. (2026) Mirage of Success: Precarious Entrepreneurship, Long-term Unemployment, and Income Generation Challenges\n\n\nWorking Papers\nIncreasingly Radical: Examining Predictors of Support for Reactionary Right-Wing Candidates for the United States House of Representatives\nEnemy Aliens: German Interment during the First World War (with Peter Catron and Kate Stovel)\nThe Earnings Premium Puzzle of Entrepreneurial Experience: Who Benefits (with Daniel Auguste)\n\n\nOther Publications\nSmither, C., Nobles, T., Parsons, K., Mason, J. & Peek, A. Improving Measures of Student Progression: Lessons for Postsecondary Competency-Based Education Practitioners and Institutional Research Professionals. Available here"
   },
   {
-    "objectID": "index.html#publications",
-    "href": "index.html#publications",
-    "title": "Todd Nobles",
-    "section": "Publications",
-    "text": "Publications"
-  },
-  {
-    "objectID": "index.html#presentations",
-    "href": "index.html#presentations",
-    "title": "Todd Nobles",
-    "section": "Presentations",
-    "text": "Presentations"
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Instructor\n\nSOC/CSSS/STAT 221: Statistical Concepts and Methods for the Social Sciences - Planned Summer 2026. Syllabus\nSOC 300: Foundations of Social Inquiry - Summer 2025. Syllabus\nMath Camp Summer 2025 and planned Summer 2026. Syllabus\n\n\n\nTeaching Assistant\n\nSOC 506: Methodology: Quantitative Techniques in Sociology (Graduate Course) - Spring 2024\nSOC 505: Applied Social Statistics (Graduate Course) - Winter 2024 & Winter 2025\nSOC 504: Introduction to Applied Social Statistics (Graduate Course) - Autumn 2023 & Autumn 2024\nSOC 301: Labor Market Inequality (Undergraduate Course) - Spring 2023\nSOC 292: Who Gets Ahead? Public Schooling in America (Undergraduate Course) - Winter 2023\nSOC 225: Data and Society (Undergraduate Course) - Autumn 2022\n\n\n\nTutoring\nOne of my most rewarding teaching experiences has been the opportunity to serve as a tutor for the first-year cohorts of Social Work and Social Welfare PhD students at the University of Washington through their year long introductory statistics course sequence from 2023-2026."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Todd Nobles",
     "section": "",
-    "text": "Bio\n\nI’m a PhD student at University of Washington.\n\n\n\nCV\n\nDownload my CV here\n\n\n\nResearch\n\n\nWorking Papers\n\nIncreasingly Radical: Examining Predictors of Support for Reactionary Right-Wing Candidates for the United States House of Representatives\nWhere You Start Matters: Labor Market Inequality and the Entrepreneurship Earnings Penalty Puzzle (with Daniel Auguste)\nEnemy Aliens: German Interment during the First World War (with Peter Catron and Kate Stovel)\nLi Verdugo, Juliann, Todd Nobles, Jerald R. Herting, Jane J. Lee, David T. Takeuchi. “Immigrant status, parental education, and financial insecurity on anxiety and depression among young Asian adults in the United States”\n\n\n\n\nSoftware and Visualization\n\n\ndata_checkr: Work in progress R package and Shiny app converting hand edits to data into reproducible R commands\nDashboards\n\nExploring Bar Exam Performance\nLaw Student Transfer Pathways"
+    "text": "About\nI’m a PhD student in the Department of Sociology at the University of Washington. I’m interested in understanding who gets what, and why in our societies. This broad interest has taken me in a number of directions. Among these are a pair of papers with exploring questions of inequality in entrepreneurship in work with Dr. Daniel Auguste. More recently, I find myself working with historical administrative data using vision language models to unearth information from archival records related to internment of German and Austrian Americans during World War I in work with Dr. Peter Catron. I’m also applying these tools in a community partnership with the Puyallup Tribe led by Dr. Theresa Rocha Beardall helping to identify individuals in boarding school archival documents.\nI’m currently working on my dissertation focused on climate risks and their relation with social and geographic mobility."
+  },
+  {
+    "objectID": "vizzes.html",
+    "href": "vizzes.html",
+    "title": "Visualizations and Tools",
+    "section": "",
+    "text": "Dashboards\n\nExploring Bar Exam Performance\n\n\n\n\n\n\n\nLaw Student Transfer Pathways\n\n\n\n\n\n\n\nTelephone Survey Results"
   }
 ]
