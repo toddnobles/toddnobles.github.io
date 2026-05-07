@@ -1,0 +1,14 @@
+---
+title: "Visualizations and Tools"
+---
+
+### Dashboards
+#### [Exploring Bar Exam Performance](https://accesslex.shinyapps.io/exploring_bar_performance/)
+[![](images/exploring_bar_performance.png)](https://accesslex.shinyapps.io/exploring_bar_performance/)
+
+#### [Law Student Transfer Pathways](https://accesslex.shinyapps.io/law_student_transfer_pathways/)
+[![](images/law_transfer_pathways.png)](https://accesslex.shinyapps.io/law_student_transfer_pathways/)
+
+#### [Telephone Survey Results](https://public.tableau.com/views/ClarityExampleSurvey/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[![](images/school_survey.png)](https://public.tableau.com/views/ClarityExampleSurvey/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+  

@@ -1,1 +1,11 @@
 /* css styles */
+
+/* Hide external link icon when it appears inside a linked image */
+a.external:has(img)::after {
+  display: none !important;
+  content: none !important;
+}
+
+h1.title {
+  color: #008CBA;
+}

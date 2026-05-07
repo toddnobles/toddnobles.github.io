@@ -1,0 +1,6 @@
+---
+title: "CV"
+---    
+<iframe src="Todd_Nobles_CV_20260507.pdf" width="100%" height="800px" style="border: none;"></iframe>
+
+[Download my CV here](Todd_Nobles_CV_20260507.pdf)

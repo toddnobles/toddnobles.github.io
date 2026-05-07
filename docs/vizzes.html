@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Todd Nobles</title>
+<title>Todd Nobles - Visualizations and Tools</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -33,6 +33,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -81,7 +82,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" rel="" target="" aria-current="page">
+    <a class="nav-link" href="./index.html" rel="" target="">
  <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
@@ -97,7 +98,7 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Teaching</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./vizzes.html" rel="" target="">
+    <a class="nav-link active" href="./vizzes.html" rel="" target="" aria-current="page">
  <span class="menu-text">Visualizations and Tools</span></a>
   </li>  
 </ul>
@@ -113,24 +114,56 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<div class="quarto-about-solana column-body">
-  <div class="about-entity">
-    <div class="entity-contents">
-      <div class="about-contents"><main class="content" id="quarto-document-content">
-<section id="about" class="level3">
-<h3 data-anchor-id="about">About</h3>
-<p>I’m a PhD student in the Department of Sociology at the University of Washington. I’m interested in understanding who gets what, and why in our societies. This broad interest has taken me in a number of directions. Among these are a pair of papers with exploring questions of inequality in entrepreneurship in work with Dr.&nbsp;Daniel Auguste. More recently, I find myself working with historical administrative data using vision language models to unearth information from archival records related to internment of German and Austrian Americans during World War I in work with Dr.&nbsp;Peter Catron. I’m also applying these tools in a community partnership with the Puyallup Tribe led by Dr.&nbsp;Theresa Rocha Beardall helping to identify individuals in boarding school archival documents.</p>
-<p>I’m currently working on my dissertation focused on climate risks and their relation with social and geographic mobility.</p>
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Visualizations and Tools</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+</header>
+
+<section id="dashboards" class="level3">
+<h3 class="anchored" data-anchor-id="dashboards">Dashboards</h3>
+<section id="exploring-bar-exam-performance" class="level4">
+<h4 class="anchored" data-anchor-id="exploring-bar-exam-performance"><a href="https://accesslex.shinyapps.io/exploring_bar_performance/">Exploring Bar Exam Performance</a></h4>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://accesslex.shinyapps.io/exploring_bar_performance/"><img src="images/exploring_bar_performance.png" class="img-fluid figure-img"></a></p>
+</figure>
+</div>
+</section>
+<section id="law-student-transfer-pathways" class="level4">
+<h4 class="anchored" data-anchor-id="law-student-transfer-pathways"><a href="https://accesslex.shinyapps.io/law_student_transfer_pathways/">Law Student Transfer Pathways</a></h4>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://accesslex.shinyapps.io/law_student_transfer_pathways/"><img src="images/law_transfer_pathways.png" class="img-fluid figure-img"></a></p>
+</figure>
+</div>
+</section>
+<section id="telephone-survey-results" class="level4">
+<h4 class="anchored" data-anchor-id="telephone-survey-results"><a href="https://public.tableau.com/views/ClarityExampleSurvey/Story1?:language=en-US&amp;:sid=&amp;:redirect=auth&amp;:display_count=n&amp;:origin=viz_share_link">Telephone Survey Results</a></h4>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://public.tableau.com/views/ClarityExampleSurvey/Story1?:language=en-US&amp;:sid=&amp;:redirect=auth&amp;:display_count=n&amp;:origin=viz_share_link"><img src="images/school_survey.png" class="img-fluid figure-img"></a></p>
+</figure>
+</div>
 
 
 </section>
-</main></div>
-    </div>
-    <img src="images/headshot (1).jpeg" class="about-image
-  rounded " style="width: 15em;">
-  </div>
-</div>
- <!-- /main -->
+</section>
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -151,6 +184,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     

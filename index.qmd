@@ -1,88 +1,12 @@
 ---
 about:
   template: solana
-  image: todd_nobles_1_5.jpg
+  image: images/headshot (1).jpeg
 ---
 
-```{=html}
-<style>
-  summary {
-    font-size: 1.75em; /* Make headers larger */
-    font-weight: bold; /* Make headers bold */
-    color: #008CBA !important; /* Ensure primary color is applied */
-  }
+### About
 
-  summary:hover {
-    text-decoration: underline; /* Optional hover effect */
-  }
-</style>
-```
+I'm a PhD student in the Department of Sociology at the University of Washington. I'm interested in understanding who gets what, and why in our societies. This broad interest has taken me in a number of directions. Among these are a pair of papers with exploring questions of inequality in entrepreneurship in work with Dr. Daniel Auguste. More recently, I find myself working with historical administrative data using vision language models to unearth information from archival records related to internment of German and Austrian Americans during World War I in work with Dr. Peter Catron. I'm also applying these tools in a community partnership with the Puyallup Tribe led by Dr. Theresa Rocha Beardall helping to identify individuals in boarding school archival documents.  
 
-<details open>
+I'm currently working on my dissertation focused on climate risks and their relation with social and geographic mobility. 
 
-<summary>About</summary>
-
-I'm a PhD student at University of Washington.
-
-</details>
-
-<details>
-
-<summary>CV</summary>
-
-[Download my CV here](Todd_Nobles_CV20241203.pdf)
-
-</details>
-
-<details>
-
-<summary>Research</summary>
-
-### Working Papers
-
--   Increasingly Radical: Examining Predictors of Support for Reactionary Right-Wing Candidates for the United States House of Representatives
-
--   Where You Start Matters: Labor Market Inequality and the Entrepreneurship Earnings Penalty Puzzle (with Daniel Auguste)
-
--   Enemy Aliens: German Interment during the First World War (with Peter Catron and Kate Stovel)
-
--   Li Verdugo, Juliann, **Todd Nobles**, Jerald R. Herting, Jane J. Lee, David T. Takeuchi. "Immigrant status, parental education, and financial insecurity on anxiety and depression among young Asian adults in the United States"
-
-</details>
-
-<details>
-
-<summary>Teaching</summary>
-
--   **Instructor of Record**
-
-    -   SOC 300: Foundations of Social Inquiry (*Undergraduate Course*) - planned Summer 2025
-
-<!-- -->
-
--   **Teaching Assistant**
-
-    -   SOC 506: Methodology: Quantitative Techniques in Sociology (*Graduate Course*) - Spring 2024
-
-    -   SOC 505: Applied Social Statistics (*Graduate Course*) - Winter 2024 & Winter 2025
-
-    -   SOC 504: Introduction to Applied Social Statistics (*Graduate Course*) - Autumn 2023 & Autumn 2024
-
-    -   SOC 301: Labor Market Inequality (*Undergraduate Course*) - Spring 2023
-
-    -   SOC 292: Who Gets Ahead? Public Schooling in America (*Undergraduate Course*) - Winter 2023
-
-    -   SOC 225: Data and Society (*Undergraduate Course*) - Autumn 2022
-
-</details>
-
-<details>
-
-<summary>Software and Visualizations</summary>
-
--   [data_checkr](data_checkr.qmd): Work in progress R package and Shiny app converting hand edits to OCR results into reproducible R commands. This takes a bit to load given that it uses webR to run the app in the browser.
--   **Dashboards**
-    -   [Exploring Bar Exam Performance](https://accesslex.shinyapps.io/exploring_bar_performance/)
-    -   [Law Student Transfer Pathways](https://accesslex.shinyapps.io/law_student_transfer_pathways/)
-
-</details>
