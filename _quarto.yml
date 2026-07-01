@@ -16,6 +16,8 @@ website:
         text: "Teaching"
       - href: vizzes.qmd
         text: "Visualizations and Tools"
+      - href: projects.qmd
+        text: "Projects"
 
 format:
   html:

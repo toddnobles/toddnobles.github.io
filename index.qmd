@@ -6,7 +6,7 @@ about:
 
 ### About
 
-I'm a PhD student in the Department of Sociology at the University of Washington. I'm interested in understanding who gets what, and why in our societies. This broad interest has taken me in a number of directions. Among these are a pair of papers with exploring questions of inequality in entrepreneurship in work with Dr. Daniel Auguste. More recently, I find myself working with historical administrative data using vision language models to unearth information from archival records related to internment of German and Austrian Americans during World War I in work with Dr. Peter Catron. I'm also applying these tools in a community partnership with the Puyallup Tribe led by Dr. Theresa Rocha Beardall helping to identify individuals in boarding school archival documents.  
+I'm a PhD student in the Department of Sociology at the University of Washington. I'm interested in understanding who gets what, and why in our societies. This broad interest has taken me in a number of directions. Among these are a pair of papers with exploring questions of inequality in entrepreneurship in work with Dr. Daniel Auguste. More recently, I'm working with historical administrative data using vision language models  to unearth information from archival records related to internment of German and Austrian Americans during World War I in work with Dr. Peter Catron. I'm also applying these tools as well as the entity recognition abilities of large language models in a community partnership with the Puyallup Tribe led by Dr. Theresa Rocha Beardall to identify individuals in archival documents from boarding schools in Washington.  
 
 I'm currently working on my dissertation focused on climate risks and their relation with social and geographic mobility. 
 
